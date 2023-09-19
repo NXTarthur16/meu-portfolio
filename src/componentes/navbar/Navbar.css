@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    padding: 10px;
+}
+
+.text {
+    font-size: 30px;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 40%;
+    color: #000;
+    text-decoration: none;
+    pointer-events: none;
+}
+
+.image a{
+    text-decoration: none;
+    color: inherit;
+}
